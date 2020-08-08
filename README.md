@@ -1,4 +1,4 @@
-# fuel-prices-scraper
+# Fuel Prices Scraper - India
 
 This will scrape https://www.newsrain.in/petrol-diesel-prices web page and print in the following format:
 <br/>
